@@ -1,0 +1,23 @@
+<li class="nav-item has-dropdown" id="departments" data-hover="">
+              <a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Industries</span></a>
+              <ul class="dropdown-menu">
+                <li class="nav-item">
+                  <a href="agriculture.html"><span>Agricultural</span></a>
+                </li>
+                <li class="nav-item">
+                  <a href="education.html"><span>Education</span></a>
+                </li>
+                <li class="nav-item">
+                  <a href="government.html"><span>Government</span></a>
+                </li>
+                <li class="nav-item">
+                  <a href="utilitiest.html"><span>Utilities</span></a>
+                </li>
+                <li class="nav-item">
+                  <a href="telecommunication.html"><span>Telecommunications</span></a>
+                </li>
+                <li class="nav-item">
+                  <a href="healthcare.html"><span>Healthcare</span></a>
+                </li>
+              </ul>
+            </li>
