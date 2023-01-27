@@ -16552,7 +16552,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
 }
 .about .about-img .about-img-holder {
   border-radius: 12px;
-  height: 600px;
+  height: 540px;
 }
 .about .about-img .counter {
   min-width: 200px;
@@ -17508,10 +17508,27 @@ ul.dropdown-menu > li.has-dropdown > a:before {
     color: #d66014 !important;
   }
 
+  .agricultral-green{
+    color: var(--global--color-primary);
+  }
   .img_class{
     vertical-align: middle;
     width: 100%;
     height: 350px;
     border-radius: 10px;
+}
+details > summary {
+  list-style-type: '▶';
+  margin-right: 5px;
+}
+
+details[open] > summary {
+  list-style-type: '▼';
+}
+
+
+
+details[open] > summary {
+  margin-bottom: 0.5rem;
 }
   
