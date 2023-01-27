@@ -13520,7 +13520,8 @@ ul.dropdown-menu > li.has-dropdown > a:before {
   margin-bottom: 32px;
 }
 .service-single .service-entry .entry-content .entry-introduction img {
-  max-width: 100%;
+  max-width: 80%;
+  /* height: 430px; */
   border-radius: 8px;
   -webkit-transition: 0.3s ease-in-out;
   -o-transition: 0.3s ease-in-out;
