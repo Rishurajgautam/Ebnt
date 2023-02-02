@@ -1429,14 +1429,14 @@ ul.list-icons li i {
 .advantages-list li {
   display: -webkit-box;
   display: -ms-flexbox;
-  display: flex;
+  /* display: flex; */
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
   font-family: var(--global--font-body);
   font-weight: 700;
   font-size: 15px;
-  line-height: 36px;
+  line-height: 30px;
   color: var(--global--color-body);
   text-transform: capitalize;
 }
