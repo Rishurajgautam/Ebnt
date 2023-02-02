@@ -10304,7 +10304,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
   font-size: 15px;
   font-weight: 700;
   color: var(--global--color-heading);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   background-color: var(--global--color-white);
   border-radius: 4px;
   z-index: 1;
