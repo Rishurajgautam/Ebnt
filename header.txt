@@ -19,6 +19,7 @@
                 </p>
               </div>
             </div>
+
           </div>
         </div>
         <div class="block-right">
@@ -27,7 +28,9 @@
               href="#"><i class="energia-twitter"></i></a><a class="share-twitter" href="#"><i
                 class="energia-youtube"></i></a>
           </div>
+
           <div class="topbar-links">
+
           </div>
           <div class="module module-language">
             <div class="selected">
@@ -84,15 +87,7 @@
               <a href="index.html"><span>Home</span></a>
             </li>
             <li class="nav-item has-dropdown" data-hover="">
-              <a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>About Us</span></a>
-              <ul class="dropdown-menu">
-                <li class="nav-item">
-                  <a href="about-us.html"><span>Mission,Vision,values</span></a>
-                </li>
-              </ul>
-            </li>
-            <li class="nav-item has-dropdown" data-hover="">
-              <a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Products</span></a>
+              <a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Energy</span></a>
               <ul class="dropdown-menu">
                 <li class="nav-item has-dropdown">
                   <details>
@@ -106,13 +101,14 @@
                     </ul>
                   </details>
                 </li>
+                
               </ul>
             </li>
             <li class="nav-item has-dropdown" data-hover="">
               <a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Solutions</span></a>
               <ul class="dropdown-menu">
                 <li class="nav-item">
-                  <a href="solution-farmers.html"><span>Farmer/Landpower</span></a>
+                  <a href="solution-farmers.html"><span>Farmer/Landowner</span></a>
                 </li>
                 <li class="nav-item">
                   <a href="solution-commercial.html"><span>Developer/Companies</span></a>
@@ -136,8 +132,8 @@
                 </li>
               </ul>
             </li>
-            <li class="nav-item " data-hover="">
-              <a href="blog.html"><span>Blog</span></a>
+            <li class="nav-item active" data-hover="">
+              <a href="about-us.html"><span>About Us</span></a>
             </li>
             <li class="nav-item " data-hover="">
               <a href="page-contact.html"><span>Contact Us</span></a>
