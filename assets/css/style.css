@@ -151,6 +151,9 @@ body {
   color: var(--global--color-white);
   text-shadow: none;
 }
+.language-icon{
+  width: 20px;
+}
 
 a {
   font-family: var(--global--font-body);
@@ -1438,7 +1441,7 @@ ul.list-icons li i {
   font-size: 15px;
   line-height: 30px;
   color: var(--global--color-body);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 @media (min-width: 992px) and (max-width: 1200px) {
   .advantages-list li {
@@ -3808,6 +3811,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
 }
 .module-language .selected img {
   margin-right: 10px;
+  width: 25px;
 }
 .module-language .selected span {
   font-family: var(--global--font-body);
@@ -3841,6 +3845,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
   -o-transition: 0.3s ease-in-out;
   transition: 0.3s ease-in-out;
   border-radius: 0 0 8px 8px;
+ 
 }
 @media (min-width: 992px) and (max-width: 1200px) {
   .module-language .lang-list {
@@ -3866,6 +3871,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
 }
 .module-language .lang-list ul li img {
   margin-right: 10px;
+  width: 25px;
 }
 .module-language .lang-list ul li a {
   font-size: 14px;
@@ -13151,7 +13157,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
   font-size: 15px;
   line-height: 36px;
   color: var(--global--color-body);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 @media (min-width: 992px) and (max-width: 1200px) {
   .services .service-panel .service-content .advantages-list li {
