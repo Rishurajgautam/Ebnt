@@ -16544,7 +16544,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
 }
 .about .about-img {
   position: relative;
-  height: 570px;
+  height: 410px;
 }
 @media screen and (min-width: 992px) {
   .about .about-img {
@@ -16558,7 +16558,7 @@ ul.dropdown-menu > li.has-dropdown > a:before {
 }
 .about .about-img .about-img-holder {
   border-radius: 12px;
-  height: 540px;
+  height: 370px;
 }
 .about .about-img .counter {
   min-width: 200px;

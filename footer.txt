@@ -23,7 +23,7 @@
                 <div class="widget-content">
                   <ul>
                     <li>
-                      <a href="agriculture.html"><span>Agricultural</span></a>
+                      <a href="agriculture.html"><span>Agriculture</span></a>
                     </li>
                     <li>
                       <a href="industries-commercial.html"><span>Commercial / Industries Buildings</span></a>
@@ -46,13 +46,10 @@
               <div class="footer-widget widget-contact">
                 <div class="widget-content">
                   <ul>
-                    <li class="phone">
-                      +2<a href="#"> 01061245741</a>
-                    </li>
                     <li class="email">
                       Email:
                       <a href="#"><span class="__cf_email__"
-                          data-cfemail="5930373f36193c373c2b3e3038773a3634">us@energybynature.com</span></a>
+                          data-cfemail="5930373f36193c373c2b3e3038773a3634">info@ebntsolar.com</span></a>
                     </li>
                     <li class="address">
                       <p>
@@ -82,18 +79,7 @@
                     <a href="#">Energy By Nature</a>.
                     all rights reserved.
                   </span>
-                  <ul class="list-unstyled social-icons">
-                    <li>
-                      <a class="share-facebook" href="#"><i class="energia-facebook"></i>facebook
-                      </a>
-                    </li>
-                    <li>
-                      <a class="share-twitter" href="#"><i class="energia-twitter"></i>twitter</a>
-                    </li>
-                    <li>
-                      <a class="share-youtube" href="#"><i class="energia-youtube"></i>youtube</a>
-                    </li>
-                  </ul>
+                  
                 </div>
               </div>
             </div>
